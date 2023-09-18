@@ -14,7 +14,7 @@ function Hero({handleLogIn}) {
             <p>Login with GitHub to start tracking open source projects.</p>
             <br />
             <FlexCenter>
-            <MarketingButton alt="pizzeeaaaet" primary onClick={handleLogIn}>
+            <MarketingButton alt="pizzeeaaawfijet" primary onClick={handleLogIn}>
               Login with GitHub
             </MarketingButton>
           </FlexCenter>
