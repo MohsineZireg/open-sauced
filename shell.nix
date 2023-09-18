@@ -19,5 +19,5 @@ in
       npm config set prefix "${NPM_PREFIX}"
       npm i -g npm@8.19.4 n typescript-language-server
       export PATH="$N_PREFIX/bin:${NPM_PREFIX}/bin:$PATH"
-    '';
+    ''; 
   }
